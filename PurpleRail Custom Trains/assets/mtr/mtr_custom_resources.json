@@ -1,0 +1,22 @@
+{
+    "custom_trains": {
+        "m45_purplerailmini": {
+            "name": "Class 345 Mini (PurpleRail)",
+            "color": "AE3AD1",
+            "base_train_type": "k_train_mini",
+            "texture_id": "mtr:custom_directory/purplerail.png"
+        },
+        "m45_purplerailreg": {
+            "name": "Class 345 Regular (PurpleRail)",
+            "color": "AE3AD1",
+            "base_train_type": "k_train_small",
+            "texture_id": "mtr:custom_directory/purplerail.png"
+        },
+        "m45_purplerail": {
+            "name": "Class 345 Big (PurpleRail)",
+            "color": "AE3AD1",
+            "base_train_type": "k_train",
+            "texture_id": "mtr:custom_directory/purplerail.png"
+        }
+    }
+}
